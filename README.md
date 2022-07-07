@@ -1,5 +1,6 @@
-<body>
 ## hi there costantin here 👋
+<body>
+
 <div style="width:95%;">
 	<img style="align:center;width:45%" src="https://github-readme-stats.vercel.app/api?username=smhconstantin&show_icons=true&theme=radical" />
 	<img style="align:center;width:45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smhconstantin&layout=compact" />
